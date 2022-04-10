@@ -1,4 +1,4 @@
-# AutoHS
+# AutoHS（欢迎star）
 * 动机：网上的炉石传说脚本都是付费的，像我这样的白嫖党很难受，所以希望有一个免费的脚本，哪怕简陋，但晒可以跑，做做任务刷刷金币即可
 * 致谢：本代码参考[Yiyuan-Dong](https://github.com/Yiyuan-Dong/AutoHS)和[FallAbyss](https://github.com/FallAbyss/AutoHS)，修改了一些小bug，制作了一个很简易的经典模式脚本
 * 注意：这个脚本是pc版基于页面的脚本，也就是完全模拟你手动的点击，需要一台win机器，并且装有炉石
