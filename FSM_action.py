@@ -475,7 +475,8 @@ def AutoHS_automata():
             FSM_state = get_screen.get_state()
         FSM_state = FSM_dispatch(FSM_state)
 
-        if FSM_state=="Quitting Battle" and ((datetime.now().hour>=23) or (datetime.now().hour<=6)):
+        #if FSM_state=="Quitting Battle" and ((datetime.now().hour>=23) or (datetime.now().hour<=6)):
+        if FSM_state=="Quitting Battle" and ((datetime.now().hour>=12) or (datetime.now().hour<=6)):
             print("555555555555555555555555555555555555555555555555555555555555555")
             print("555555555555555555555555555555555555555555555555555555555555555")
             print("555555555555555555555555555555555555555555555555555555555555555")
