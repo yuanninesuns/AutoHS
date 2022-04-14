@@ -4,7 +4,7 @@ HEARTHSTONE_POWER_LOG_PATH = "C:/Program Files (x86)/Hearthstone/Logs/Power.log"
 
 # 你的炉石用户名, 注意英文标点符号'#', 把后面的数字也带上
 # 可以输入中文
-YOUR_NAME = "九日#5388"
+YOUR_NAME = ""
 
 # 关于控制台信息打印的设置
 DEBUG_PRINT = True
