@@ -100,7 +100,8 @@ def push_wx(sckey, desp=""):
 def system_exit():
     global quitting_flag
 
-    sckey = "SCT135232T14i5maTcc5DlmunBkQ7YJYcz"
+    sckey = ""
+    # 这个码是推送信息到微信的码，去sct.ftqq.com上绑定，不需要就不用管
 
     push = f"一共完成了{game_count}场对战, 赢了{win_count}场"
 
